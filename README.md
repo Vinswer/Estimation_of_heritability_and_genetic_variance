@@ -54,7 +54,9 @@ Missing values are represented by ".".
 
 ## Statistical Model Framework
 Both analyses are based on the **animal model** or its simplified form, described by:
+
 y = Xβ + Zₐa + Z꜀c + e
+
 where:
 | Symbol | Description |
 |---------|-------------|
@@ -65,7 +67,9 @@ where:
 | **e** | Residual error |
 
 **Heritability** is computed as:
+
 h² = σ²ₐ / (σ²ₐ + σ²꜀ + σ²ₑ)
+
 where:  
 - σ²ₐ = additive genetic variance  
 - σ²꜀ = common environmental variance  
